@@ -24,7 +24,7 @@ from time import strftime
 from bs4 import BeautifulSoup as sop
 from datetime import datetime
 from time import sleep as slp
-folder_path = '/sdcard/CyberRow-X'
+folder_path = '/sdcard/ayeshakhan-X'
 try:
     os.makedirs(folder_path, exist_ok=True)
 except:
@@ -645,19 +645,21 @@ def clear():
     os.system("clear")
 
 logo=("""[green1]
-  ______                     _____ __             __      
- /_  __/___  ____  __  __   / ___// /_____ ______/ /__    
-  / / / __ \/ __ \/ / / /   \__ \/ __/ __ `/ ___/ //_/    
- / / / /_/ / / / / /_/ /   ___/ / /_/ /_/ / /  / ,<       
-/_/  \____/_/ /_/\__, /   /____/\__/\__,_/_/  /_/|_|      
-                /____/
+           __     ________  _____ _    _            
+     /\\ \   / /  ____|/ ____| |  | |   /\      
+    /  \\ \_/ /| |__  | (___ | |__| |  /  \     
+   / /\ \\   / |  __|  \___ \|  __  | / /\ \    
+  / ____ \| |  | |____ ____) | |  | |/ ____ \ _ 
+ /_/    \_\_|  |______|_____/|_|  |_/_/    \_(_)
+                                                
+                                                
     ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
     ┃ TOOLS NAME => Auto FB Account          ┃
-    ┃ OWNER NAME => Tony Stark               ┃
+    ┃ OWNER NAME => Ayesha khan              ┃
     ┃ CLONE SYS  => DATA , WIFI              ┃
-    ┃ WHATS APP  => +19162457630             ┃
-    ┃ TELEGRAM   => @CyberRowX               ┃
-    ┃      PLEASE DON'T UES A RONG WORK      ┃
+    ┃ WHATS APP  => 03040827647              ┃
+    ┃ TELEGRAM   => @Ayeshakhan              ┃
+    ┃      PLEASE DON'T UES A WRONG WORK      ┃
     ┗━━━━━━━━━━━━━━━━━[bold red] ● [bright_yellow]● [green1]● ━━━━━━━━━━━━━━━━┛
 """)
 ll=str([hari,tanggal])
@@ -673,7 +675,7 @@ def fucker():
 	fuckingPass = input(' Enter Password : ')
 	if fuckingPass in ['0']:
 		exit()
-	elif fuckingPass in ["@cyberrowx"]:
+	elif fuckingPass in ["Ayeshakhan"]:
 		banner()
 	else:
 		print(" Your Password is Wrong !!")
